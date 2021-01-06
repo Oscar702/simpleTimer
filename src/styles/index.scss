@@ -1,5 +1,24 @@
 @import "~bootstrap/scss/bootstrap.scss";
 
+
+.mainCounter{
+
+text-align: center;
+
+
+}
+.mainCounter div{
+display: inline-block;
+font-size: 150px;
+line-height: 180px;
+height: 200px;
+background: greenyellow;
+color: black;
+padding: 5px;
+margin: 1px;
+
+
+}
 /* 
 
     You can write your own styles here...
